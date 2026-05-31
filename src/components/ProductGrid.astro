@@ -1,0 +1,45 @@
+---
+import ProductCard from './ProductCard.astro';
+import products from '../data/products.json';
+---
+<section class="product-grid-section">
+  <div class="container">
+    <div class="product-grid" id="product-grid">
+      {products.map(product => (
+        <div
+          class="grid-item"
+          data-category={product.category}
+        >
+          <ProductCard product={product} />
+        </div>
+      ))}
+    </div>
+    <p class="empty-state" id="empty-state" hidden>
+      No products in this category yet.
+    </p>
+  </div>
+</section>
+
+<style>
+  .product-grid-section { padding-bottom: 64px; }
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+  .grid-item { display: flex; }
+  .grid-item .product-card { width: 100%; }
+  .grid-item[hidden] { display: none; }
+  .empty-state {
+    text-align: center;
+    color: var(--muted);
+    padding: 64px 0;
+    font-size: 1.1rem;
+  }
+  @media (max-width: 900px) {
+    .product-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 560px) {
+    .product-grid { grid-template-columns: 1fr; gap: 16px; }
+  }
+</style>
