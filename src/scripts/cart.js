@@ -36,7 +36,6 @@ export function updateQuantity(cart, id, size, quantity) {
 }
 
 export function clearCart() {
-  localStorage.removeItem(STORAGE_KEY);
   return [];
 }
 
