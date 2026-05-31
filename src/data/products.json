@@ -1,0 +1,290 @@
+[
+  {
+    "id": "round-hanging-balcony-planter",
+    "name": "Round Hanging Balcony Planter",
+    "category": "plastic",
+    "sizes": ["7cm width / 6.5cm height"],
+    "price": 0,
+    "image": "round-hanging-balcony-planter.png",
+    "colors": ["lavender", "beige", "purple", "red", "white"]
+  },
+  {
+    "id": "square-hanging-balcony-planter",
+    "name": "Square Hanging Balcony Planter",
+    "category": "plastic",
+    "sizes": ["8cm width / 6.5cm height"],
+    "price": 0,
+    "image": "square-hanging-balcony-planter.png",
+    "colors": ["magenta", "purple", "lime green", "white", "blue"]
+  },
+  {
+    "id": "rectangular-hanging-balcony-planter",
+    "name": "Rectangular Hanging Balcony Planter",
+    "category": "plastic",
+    "sizes": ["32×6cm width / 6.5cm height"],
+    "price": 0,
+    "image": "rectangular-hanging-balcony-planter.png",
+    "colors": ["beige", "purple", "blue", "white", "orange"]
+  },
+  {
+    "id": "rectangular-planter-box-with-tray",
+    "name": "Rectangular Planter Box with Tray",
+    "category": "plastic",
+    "sizes": ["17\"", "12\""],
+    "price": 0,
+    "image": "rectangular-planter-box-with-tray.png",
+    "colors": ["black", "terracotta"]
+  },
+  {
+    "id": "decorative-round-flower-pot",
+    "name": "Decorative Round Flower Pot",
+    "category": "plastic",
+    "sizes": ["5\""],
+    "price": 0,
+    "image": "decorative-round-flower-pot.png",
+    "colors": ["grey", "cream"]
+  },
+  {
+    "id": "planter-pot-terracotta",
+    "name": "Planter Pot",
+    "category": "plastic",
+    "sizes": ["5\"", "6\""],
+    "price": 0,
+    "image": "planter-pot-terracotta.png",
+    "colors": ["terracotta"]
+  },
+  {
+    "id": "planter-pot-black",
+    "name": "Planter Pot",
+    "category": "plastic",
+    "sizes": ["5\"", "6\""],
+    "price": 0,
+    "image": "planter-pot-black.png",
+    "colors": ["black"]
+  },
+  {
+    "id": "indoor-outdoor-round-planter",
+    "name": "Indoor Outdoor Round Planter",
+    "category": "plastic",
+    "sizes": ["3\"", "5\"", "6\"", "8\"", "10\""],
+    "price": 0,
+    "image": "indoor-outdoor-round-planter.png",
+    "colors": ["white", "lime", "blue", "teal", "pink", "purple"]
+  },
+  {
+    "id": "pedestal-urn-planter",
+    "name": "Pedestal Flower Vase / Urn Planter",
+    "category": "plastic",
+    "sizes": ["6\"", "8\""],
+    "price": 0,
+    "image": "pedestal-urn-planter.png",
+    "colors": ["teal", "beige"]
+  },
+  {
+    "id": "round-premium-planter",
+    "name": "Round Premium Planter",
+    "category": "plastic",
+    "sizes": ["5\"", "6\"", "7\"", "8\"", "10\"", "12\""],
+    "price": 0,
+    "image": "round-premium-planter.png",
+    "colors": ["terracotta", "black"]
+  },
+  {
+    "id": "square-premium-planter-black",
+    "name": "Square Premium Planter",
+    "category": "plastic",
+    "sizes": ["8\"", "10\"", "12\""],
+    "price": 0,
+    "image": "square-premium-planter-black.png",
+    "colors": ["black"]
+  },
+  {
+    "id": "square-premium-planter-terracotta",
+    "name": "Square Premium Planter",
+    "category": "plastic",
+    "sizes": ["8\"", "10\""],
+    "price": 0,
+    "image": "square-premium-planter-terracotta.png",
+    "colors": ["terracotta"]
+  },
+  {
+    "id": "balcony-railing-planter",
+    "name": "Balcony Railing Planter",
+    "category": "plastic",
+    "sizes": ["standard"],
+    "price": 0,
+    "image": "balcony-railing-planter.png",
+    "colors": ["terracotta"]
+  },
+  {
+    "id": "orange-yellow-gradient-ribbed-pot",
+    "name": "Gradient Ribbed Ceramic Pot",
+    "category": "ceramic",
+    "sizes": ["4\""],
+    "price": 0,
+    "image": "orange-yellow-gradient-ribbed-pot.png",
+    "colors": ["orange gradient", "yellow gradient"]
+  },
+  {
+    "id": "white-ribbed-pot-with-saucer",
+    "name": "White Ribbed Ceramic Pot with Saucer",
+    "category": "ceramic",
+    "sizes": ["4\"", "7\""],
+    "price": 0,
+    "image": "white-ribbed-pot-with-saucer.png",
+    "colors": ["white"]
+  },
+  {
+    "id": "white-mini-ribbed-ceramic-pot",
+    "name": "Mini Ribbed Ceramic Pot",
+    "category": "ceramic",
+    "sizes": ["3\""],
+    "price": 0,
+    "image": "white-mini-ribbed-ceramic-pot.png",
+    "colors": ["white"]
+  },
+  {
+    "id": "white-pedestal-ceramic-pot",
+    "name": "Pedestal Ceramic Pot",
+    "category": "ceramic",
+    "sizes": ["5\""],
+    "price": 0,
+    "image": "white-pedestal-ceramic-pot.png",
+    "colors": ["white"]
+  },
+  {
+    "id": "cat-print-ceramic-pot",
+    "name": "Cat Print Ceramic Pot",
+    "category": "ceramic",
+    "sizes": ["5\""],
+    "price": 0,
+    "image": "cat-print-ceramic-pot.png",
+    "colors": ["white"]
+  },
+  {
+    "id": "diamond-faceted-ceramic-pot",
+    "name": "Diamond Faceted Ceramic Pot",
+    "category": "ceramic",
+    "sizes": ["8\""],
+    "price": 0,
+    "image": "diamond-faceted-ceramic-pot.png",
+    "colors": ["white", "blue"]
+  },
+  {
+    "id": "sunflower-print-ceramic-set",
+    "name": "Sunflower Print Ceramic Pot",
+    "category": "ceramic",
+    "sizes": ["6\"", "7\"", "8\""],
+    "price": 0,
+    "image": "sunflower-print-ceramic-set.png",
+    "colors": ["white"]
+  },
+  {
+    "id": "neutral-tone-ceramic-set",
+    "name": "Neutral Tone Ceramic Pot",
+    "category": "ceramic",
+    "sizes": ["7\"", "8\""],
+    "price": 0,
+    "image": "neutral-tone-ceramic-set.png",
+    "colors": ["white", "beige", "grey"]
+  },
+  {
+    "id": "bulbous-ribbed-white-pot",
+    "name": "Bulbous Ribbed Ceramic Pot",
+    "category": "ceramic",
+    "sizes": ["7\""],
+    "price": 0,
+    "image": "bulbous-ribbed-white-pot.png",
+    "colors": ["white"]
+  },
+  {
+    "id": "green-tribal-pattern-bowl",
+    "name": "Tribal Pattern Ceramic Bowl",
+    "category": "ceramic",
+    "sizes": ["7\" × 4\""],
+    "price": 0,
+    "image": "green-tribal-pattern-bowl.png",
+    "colors": ["green"]
+  },
+  {
+    "id": "white-scalloped-ribbed-pot",
+    "name": "Scalloped Ribbed Ceramic Pot",
+    "category": "ceramic",
+    "sizes": ["5\""],
+    "price": 0,
+    "image": "white-scalloped-ribbed-pot.png",
+    "colors": ["white"]
+  },
+  {
+    "id": "sage-green-ribbed-pot",
+    "name": "Sage Green Ribbed Ceramic Pot",
+    "category": "ceramic",
+    "sizes": ["8\""],
+    "price": 0,
+    "image": "sage-green-ribbed-pot.png",
+    "colors": ["sage green"]
+  },
+  {
+    "id": "square-white-ceramic-pot",
+    "name": "Square White Ceramic Pot",
+    "category": "ceramic",
+    "sizes": ["3\""],
+    "price": 0,
+    "image": "square-white-ceramic-pot.png",
+    "colors": ["white"]
+  },
+  {
+    "id": "knitted-texture-ceramic-pot",
+    "name": "Knitted Texture Ceramic Pot",
+    "category": "ceramic",
+    "sizes": ["3\""],
+    "price": 0,
+    "image": "knitted-texture-ceramic-pot.png",
+    "colors": ["white"]
+  },
+  {
+    "id": "footed-ribbed-white-ceramic-pot",
+    "name": "Footed Ribbed Ceramic Pot",
+    "category": "ceramic",
+    "sizes": ["4\""],
+    "price": 0,
+    "image": "footed-ribbed-white-ceramic-pot.png",
+    "colors": ["white"]
+  },
+  {
+    "id": "geometric-white-ceramic-pot",
+    "name": "Geometric Ceramic Pot with Saucer",
+    "category": "ceramic",
+    "sizes": ["5\""],
+    "price": 0,
+    "image": "geometric-white-ceramic-pot.png",
+    "colors": ["white"]
+  },
+  {
+    "id": "tree-print-ceramic-set",
+    "name": "Tree Print Ceramic Pot",
+    "category": "ceramic",
+    "sizes": ["4\"", "5\"", "6\""],
+    "price": 0,
+    "image": "tree-print-ceramic-set.png",
+    "colors": ["white"]
+  },
+  {
+    "id": "lotus-pot",
+    "name": "Lotus Fiber Pot",
+    "category": "fiber",
+    "sizes": ["15\""],
+    "price": 0,
+    "image": "lotus-pot.png",
+    "colors": ["stone beige"]
+  },
+  {
+    "id": "wave-pot",
+    "name": "Wave Fiber Pot",
+    "category": "fiber",
+    "sizes": ["14\""],
+    "price": 0,
+    "image": "wave-pot.png",
+    "colors": ["grey", "green", "white"]
+  }
+]
